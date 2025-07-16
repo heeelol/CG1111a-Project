@@ -2,7 +2,7 @@
 This repo contains the full documentation for our CG1111A project at the National University of Singapore.
 Our goal: design and program an autonomous mBot that can navigate a maze using color detection and sensor feedback.
 
-###🎯 Task Objective
+### 🎯 Task Objective
 
 - Navigate a maze autonomously using LDR and RGB LEDs
 
