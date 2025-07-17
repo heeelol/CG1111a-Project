@@ -2,7 +2,7 @@
 This repo contains the full documentation for our CG1111A project at the National University of Singapore.
 Our goal: design and program an autonomous mBot that can navigate a maze using color detection and sensor feedback.
 
-### 🎯 Task Objective
+###  Task Objective
 
 - Navigate a maze autonomously using LDR and RGB LEDs
 
@@ -12,7 +12,7 @@ Our goal: design and program an autonomous mBot that can navigate a maze using c
 
 - Play a melody when reaching the white tile (end goal)
 
-✅ Achievements
+### Achievements
 
 - Successfully completed the maze without human intervention
 
@@ -22,7 +22,7 @@ Our goal: design and program an autonomous mBot that can navigate a maze using c
 
 - Robust performance even under ambient light and sensor noise
 
-🔧 Tools & Skills
+### Tools & Skills
 
 - Arduino C++ Programming
 
